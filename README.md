@@ -21,7 +21,7 @@ pip install ultralytics==8.0.104
 
 ## Run
 2 options for run:
-
+please frist go to assets folder and aplod video by name == qq2.mp4
 1.use the main python script for cli
 ```
 python main.py
@@ -33,4 +33,5 @@ python main.py
 perl gui.pl
 ```
 ## THE GAME OVER 
+outputs video in outputs folder !
 IRANIAN-AI
